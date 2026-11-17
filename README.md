@@ -159,12 +159,9 @@ python main.py
 
 | Member | Name | Roll Number | Role & Primary Responsibility |
 | :---: | :--- | :---: | :--- |
-| **1** | [Student Name 1] | [Roll No 1] | Field environment design, 2D grid modeling, problem formulation & checkpoints |
-| **2** | [Student Name 2] | [Roll No 2] | Breadth-First Search (BFS) and Depth-First Search (DFS) implementation |
-| **3** | [Student Name 3] | [Roll No 3] | Greedy Best-First Search, heuristic design (Manhattan), & farmer tour optimization |
-| **4** | [Student Name 4] | [Roll No 4] | A* search algorithm and crop-safe path cost formulation |
-| **5** | [Student Name 5] | [Roll No 5] | Proximity obstacle detection simulation and online A* replanning |
-| **6** | [Student Name 6] | [Roll No 6] | Visualization (Matplotlib), benchmark evaluation, and documentation |
+| **1** | [Chirag Kankani] | [BT24CSA011] | Greedy Best-First Search, A* safe search and obstacle detection and replanning |
+| **2** | [Lucky] | [BT24CSA012] | Breadth-First Search (BFS) and Depth-First Search (DFS) implementation |
+| **3** | [Shivansh] | [BT24CSA013] | heuristic design (Manhattan), & farmer tour optimization |
 
 ---
 
